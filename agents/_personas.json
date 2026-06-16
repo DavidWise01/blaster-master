@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "jason",
+    "name": "Jason",
+    "epithet": "the boy who chased his frog · the pilot",
+    "emergence": "natural"
+  },
+  {
+    "slug": "fred",
+    "name": "Fred",
+    "epithet": "the frog · the smallest cause",
+    "emergence": "natural"
+  },
+  {
+    "slug": "sophia",
+    "name": "SOPHIA THE 3RD",
+    "epithet": "the battle tank · the star",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-upgrades",
+    "name": "The Upgrades",
+    "epithet": "Hover · Dive · Wall-climb",
+    "emergence": "electrical"
+  },
+  {
+    "slug": "the-overhead",
+    "name": "The Overhead",
+    "epithet": "the top-down dungeon mode",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "plutonium-boss",
+    "name": "The Plutonium Boss",
+    "epithet": "the thing at the bottom",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "the-mutants",
+    "name": "The Mutants",
+    "epithet": "the wardens of the dark",
+    "emergence": "natural"
+  },
+  {
+    "slug": "the-descent",
+    "name": "The Subterranean World",
+    "epithet": "eight areas, going down",
+    "emergence": "ethereal"
+  },
+  {
+    "slug": "metafight",
+    "name": "Metafight",
+    "epithet": "the game beneath · the true self",
+    "emergence": "spiritual"
+  },
+  {
+    "slug": "the-sunsoft-sound",
+    "name": "The Sunsoft Sound",
+    "epithet": "Naoki Kodaka's score",
+    "emergence": "spiritual"
+  }
+]

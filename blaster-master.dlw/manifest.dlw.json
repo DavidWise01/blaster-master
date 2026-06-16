@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "BLASTER MASTER",
+  "universe": "BLAST · Blaster Master",
+  "emergence": "",
+  "moniker": "⟦BLASTER MASTER:BLAST:18acab⟧",
+  "carbon": "blaster-master.carbon.tiff (TIFF)",
+  "silicon": "blaster-master.silicon.png (PNG)",
+  "seal_sha256": "8b2660ba2e197403f78f8fde771ed750b30bd9a7fb568bccfe015339a47d6dda",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
