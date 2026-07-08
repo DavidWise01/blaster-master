@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 620
+slug  : blaster-master
+seal  : 8b2660ba2e197403f78f8fde771ed750b30bd9a7fb568bccfe015339a47d6dda
+prev  : b7c5e680389a18c3ebb96bd9e5abdce914fd5f1be841cb53752a4dafe1f70094
+link  : 2955dad8dd831e346a747ce1b077d487122449c001ccb22b9699ab065e7da4fb
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
